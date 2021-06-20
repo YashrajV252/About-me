@@ -1,0 +1,99 @@
+
+
+body {
+
+background-color: purple;
+
+}
+.op {
+
+
+margin-left: 15%;
+
+
+}
+
+a:hover {
+    color: red;
+
+}
+
+
+.gg a {
+
+    font-family: Flood STD;
+font-size: 30px;
+text-decoration: none;
+
+
+}
+
+.gg {
+
+    background-color: black;
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    }
+.push {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+span{
+    color: red;
+}
+
+
+.info {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    margin: 20px;
+    background-color: rgb(0, 0, 0);
+border: yellow;
+}
+
+a {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 35px;
+
+
+}
+
+.f1 {
+    text-align: center;
+ color: red;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 65px;
+
+}
+
+.fn1 {
+    text-align: center;
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+
+}
+
+.fn2 {
+    text-align: center;
+    color: lime;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+
+}
+
+li {
+
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+
+}
+
+
